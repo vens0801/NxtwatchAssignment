@@ -1,0 +1,43 @@
+.views-date-container {
+  display: flex;
+}
+
+.line {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.profile-img-detail {
+  margin-top: 20px;
+  margin-right: 25px;
+  height: 50px;
+  width: 50px;
+}
+
+.active-btn {
+  color: #2563eb;
+}
+
+.like-icon {
+  color: #64748b;
+}
+
+.dislike-icon {
+  color: #64748b;
+}
+
+.like-btn {
+  color: #64748b;
+}
+
+.dislike-btn {
+  color: #64748b;
+}
+
+.save-icon {
+  color: #64748b;
+}
+
+.save-btn {
+  color: #64748b;
+}

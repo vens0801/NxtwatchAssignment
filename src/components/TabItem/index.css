@@ -1,0 +1,31 @@
+.tab {
+  font-weight: 600;
+  padding: 5px;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.active-tab {
+  background-color: #cbd5e1;
+  padding: 10px;
+}
+
+.active-icon {
+  color: red;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.dark-mode{
+  color: white;
+}
+
+.light-mode{
+  color: black;
+}

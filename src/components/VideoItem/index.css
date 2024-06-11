@@ -1,0 +1,25 @@
+.thumbnail {
+  width: 225px;
+}
+
+.profile {
+  width: 35px;
+  height: 35px;
+  margin-top: 15px;
+  margin-right: 5px;
+}
+
+.link-style {
+  text-decoration: none;
+  color: black;
+}
+
+.profile-url-container {
+  display: flex;
+  padding: 5px;
+  margin-top: 1px;
+}
+
+.views-date-container {
+  display: flex;
+}

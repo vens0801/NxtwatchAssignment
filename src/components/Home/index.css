@@ -1,0 +1,51 @@
+.light-sidebar-and-content-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  background-color: #f9f9f9;
+}
+
+.dark-sidebar-and-content-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  background-color: #181818;
+}
+
+.search-icon {
+  padding-top: 5px;
+  width: 20px;
+  height: 20px;
+}
+
+.search-el {
+  outline: none;
+  border-width: 0px;
+}
+
+.banner-close-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.logo {
+  width: 200px;
+}
+
+.failure {
+  width: 400px;
+}
+
+.search-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

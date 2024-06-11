@@ -1,0 +1,25 @@
+.logo-img {
+  width: 100px;
+}
+
+label {
+  color: gray;
+  font-weight: 600;
+  margin-bottom: 3px;
+  font-size: 12px;
+}
+
+input {
+  outline: none;
+  padding: 5px;
+  border-radius: 6px;
+  border: 1px solid gray;
+}
+
+.error-msg {
+  color: #ff0000;
+  font-size: 12px;
+  font-weight: 600;
+  align-self: flex-start;
+  margin-top: 1px;
+}

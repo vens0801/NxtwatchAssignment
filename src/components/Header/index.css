@@ -1,0 +1,70 @@
+.light-cancel-btn {
+  background-color: white;
+  border-radius: 4px;
+  border-width: 1px solid gray;
+  color: gray;
+  height: 36px;
+  width: 100px;
+  margin-right: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.dark-cancel-button {
+  background-color: transparent;
+  border-radius: 4px;
+  border-width: 1px solid gray;
+  color: gray;
+  height: 36px;
+  width: 100px;
+  margin-right: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.light-confirm-btn {
+  background-color: #0b69ff;
+  border-radius: 4px;
+  color: white;
+  height: 36px;
+  width: 100px;
+  cursor: pointer;
+  outline: none;
+}
+
+.sun {
+  color: white;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.logo-img {
+  width: 100px;
+  height: 30px;
+}
+
+.profile-img {
+  width: 30px;
+  height: 30px;
+}
+
+.moon {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.light-popup-container {
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 10px;
+}
+
+.dark-popup-container {
+  background-color: #313131;
+  padding: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 10px;
+}

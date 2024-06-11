@@ -1,0 +1,14 @@
+.gaming-thumbnail {
+  width: 200px;
+  height: 350px;
+}
+
+.views-count {
+  margin-top: 2px;
+}
+
+.gaming-video-container {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
